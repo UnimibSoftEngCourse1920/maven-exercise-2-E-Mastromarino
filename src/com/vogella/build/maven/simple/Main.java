@@ -4,7 +4,7 @@ public class Main {
 	
 	public static void main(String[] asfd) {
 		
-		System.out.println("Hello Masdfasdfsafaven");
+		System.out.println("Hello Maven");
 		
 	}
 	
